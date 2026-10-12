@@ -1,0 +1,16 @@
+﻿# Fichier de routes du réseau routier français
+# Format: VilleDepart,VilleArrivee,DistanceKm
+Toulouse,Bordeaux,250
+Toulouse,Montpellier,240
+Toulouse,Paris,680
+Bordeaux,Nantes,350
+Bordeaux,Paris,590
+Montpellier,Marseille,170
+Montpellier,Lyon,300
+Marseille,Nice,200
+Marseille,Lyon,315
+Lyon,Paris,460
+Lyon,Strasbourg,490
+Paris,Lille,220
+Paris,Strasbourg,490
+Nantes,Paris,380
